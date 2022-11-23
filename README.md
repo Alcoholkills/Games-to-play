@@ -13,6 +13,7 @@
 
 - FallGuys
 - Helldivers
+- Chess
 
 ## With few
 
