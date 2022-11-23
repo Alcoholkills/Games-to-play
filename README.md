@@ -7,7 +7,7 @@
 
 ## Spice
 
-Gmod
+- Gmod
 
 ## With many
 
